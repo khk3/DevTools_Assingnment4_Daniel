@@ -114,9 +114,9 @@ namespace OliveiraLab4
         private void btnBook_Click(object sender, EventArgs e)
         {
             //Set the variables
-            bool validPeople
-            int people
-            double price;
+            bool validPeople;
+            int people;
+            double price = 0;
             string location=null, flight=null, cashDiscount = null;
             validPeople = int.TryParse(txtPeople.Text, out people);
 
@@ -124,13 +124,13 @@ namespace OliveiraLab4
             grpBook.Enabled = false;
 
             //Validating if people is int
-            if (validPeople == true)
+            if (validPeople == false)
             {
                 DisplayMsg(1);
             }
 
             //Validating the range
-            else if (people < 0 || people > 10)
+            else if (people < 1 || people > 10)
             {
                 DisplayMsg(2);
             }
