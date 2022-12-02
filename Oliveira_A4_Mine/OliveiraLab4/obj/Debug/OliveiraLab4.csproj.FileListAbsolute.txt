@@ -20,3 +20,11 @@ C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.Ge
 C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.CoreCompileInputs.cache
 C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.exe
 C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.pdb
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\DevTools_Assingnment4_Daniel\Oliveira_A4_Mine\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.AssemblyReference.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\DevTools_Assingnment4_Daniel\Oliveira_A4_Mine\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\DevTools_Assingnment4_Daniel\Oliveira_A4_Mine\OliveiraLab4\obj\Debug\OliveiraLab4.Form1.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\DevTools_Assingnment4_Daniel\Oliveira_A4_Mine\OliveiraLab4\obj\Debug\OliveiraLab4.Properties.Resources.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\DevTools_Assingnment4_Daniel\Oliveira_A4_Mine\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.GenerateResource.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\DevTools_Assingnment4_Daniel\Oliveira_A4_Mine\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.CoreCompileInputs.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\DevTools_Assingnment4_Daniel\Oliveira_A4_Mine\OliveiraLab4\obj\Debug\OliveiraLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\DevTools_Assingnment4_Daniel\Oliveira_A4_Mine\OliveiraLab4\obj\Debug\OliveiraLab4.pdb
